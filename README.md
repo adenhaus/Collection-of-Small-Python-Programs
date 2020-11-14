@@ -4,6 +4,7 @@
 
 #### App Descriptions
 * **Hang Man**
+  Hello
 * **Password Generator**
 * **Guess the Number**
 * **Rock Paper Scissors**
