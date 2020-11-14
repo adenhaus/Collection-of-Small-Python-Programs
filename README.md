@@ -3,8 +3,7 @@
 > Miscellaneous small console apps written in Python, mostly while I was learning to code. Nothing super impressive but most are quite fun and document my learning journey.
 
 #### App Descriptions
-* **Hang Man**
-  Hello
+* **Hang Man**\nHello
 * **Password Generator**
 * **Guess the Number**
 * **Rock Paper Scissors**
